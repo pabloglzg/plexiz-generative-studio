@@ -1,23 +1,20 @@
 # Design Inspiration Sites
 
-Curated list of design reference sites by category.
+**Source:** [@UiSavior](https://x.com/UiSavior/status/2027209415334461455) — Feb 27, 2026 · 1.6K likes
 
-## Web Design & UI
-- **curated.design** — Web design inspiration
-- **landing.love** — Landing page designs
-- **saaspo.com** — SaaS website designs
-- **navbar.gallery** — Navigation patterns
-- **cta.gallery** — Call-to-action sections
-- **appmotion.design** — Animation/motion references
-- **component.gallery** — Design system components
+## Curated List
 
-## Mobile
-- **mobbin.com** — Mobile app design patterns
+| Category | Site |
+|---|---|
+| Web Design | saaspo.com (or similar) |
+| Landing Pages | landingfolio.com |
+| SaaS Websites | saaslandingpage.com |
+| Navbar Examples | (see tweet) |
+| CTA Sections | (see tweet) |
+| Animations | (see tweet) |
 
-## Branding
-- **rebrand.gallery** — Brand identity & rebranding cases
+> Note: Full URLs in original tweet. Visit https://x.com/UiSavior/status/2027209415334461455 for exact links.
 
-## Icons
-- **hugeicons.com** — Icon library
+## Use Case
 
-Source: @UiSavior https://x.com/UiSavior/status/2027209415334461455
+Browse before starting a new design project. Feed screenshots to Nano Banana or Claude as reference.

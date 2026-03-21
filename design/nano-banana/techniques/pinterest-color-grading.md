@@ -1,20 +1,22 @@
-# Pinterest Color Grading Method
+# Nano Banana Color Grading with Pinterest References
 
-Nano Banana defaults to a grayish color grade. This method fixes it.
+**Source:** [@iamrollandex](https://x.com/iamrollandex/status/2028430925072060783) — Mar 2, 2026 · 1.3K likes
 
-## Workflow
-1. **Find a reference photo** on Pinterest with the aesthetic/color grading you want
-2. **Analyze with vision model** (ChatGPT 5.1 or Claude): "Analyze this photo and give me a very detailed JSON prompt that can recreate it. Break down the color grading and all exact colors."
-3. **Use the JSON in Nano Banana** with your product/subject: "Using this JSON as reference, generate [subject] with [product]"
-4. **Save the generated character** as reference for facial consistency
-5. **Always attach the character photo** in subsequent generations for consistent UGC
+## Problem
 
-## Why it works
-The detailed color grading JSON forces Nano Banana out of its default grey palette. Without explicit color direction, the model defaults to desaturated, flat lighting.
+Nano Banana 2 default output = grey, desaturated color grade.
 
-## Pro tips
-- Use ChatGPT for the analysis (strong photo analysis capabilities)
-- The more specific the color breakdown (shadows, midtones, highlights separately), the better
-- Works for both product photography and character generation
+## Fix
 
-Source: @iamrollandex https://x.com/iamrollandex/status/2028430925072060783
+1. Go to Pinterest
+2. Find a photo with the aesthetic/color grade you want
+3. Use it as **color grading reference + creative direction input** in your NB prompt
+
+## Why It Works
+
+NB can match the color temperature, saturation, and mood of a reference image — it's not limited to its defaults.
+
+## Related
+
+- See also: `techniques/json-prompting.md` for structured prompting
+- @Timmysofine posts NB2 examples with prompts in comments
