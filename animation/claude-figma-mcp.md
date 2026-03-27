@@ -33,6 +33,6 @@ Pick best version → Figma MCP pulls changes back to codebase
 
 ## Our Config
 
-- Figma Personal Token: `REDACTED_FIGMA_TOKEN`
-- MCP Channel: `315zdhlx`
+- Figma Personal Token: `YOUR_FIGMA_TOKEN`
+- MCP Channel: `YOUR_MCP_CHANNEL`
 - Native MCP: `https://mcp.figma.com/mcp`
