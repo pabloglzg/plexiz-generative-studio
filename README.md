@@ -31,6 +31,10 @@ Cada herramienta tiene:
 
 ## Reglas
 
+### Referencias y revisión de imágenes
+
+La [receta de referencias por función y QA](design/techniques/references-by-role-and-output-qa.md) separa identidad, logo y tipografía, conserva la modalidad de producción y explica qué verificar en la salida efectiva. Incluye límites de una prueba asistida; no acredita desempeño publicitario.
+
 1. **Solo conocimiento probado** — nada teórico sin testear
 2. **Destilado, no copiado** — solo lo actionable de cada fuente
 3. **Source link siempre** — cada entry tiene su fuente original
